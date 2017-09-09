@@ -11,7 +11,7 @@ public class ColLesson02 {
 		System.out.println("英単語と日本語をスペースで区切って入力して下さい。");
 		Scanner sc  = new Scanner(System.in);
 		String input = sc.nextLine();
-System.out.println(input);
+
 
 		// ここから記述してください
 		// 例えば、「apple  りんご」と入力されたときはtmp[0]に"apple"、tmp[1]に"りんご"が入る
